@@ -179,5 +179,3 @@ for x in tupla:
 
 
 
-
-
