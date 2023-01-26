@@ -1,4 +1,4 @@
-from sum import minha_funcao_de_somar
+from programando_com_python_t14416.aula_03.jpcalc.soma.sum import minha_funcao_de_somar
 
 print('=== Calculadora do Julio ====')
 print('Bem vindo a minha calculadora, escolha uma das opções abaixo:')
