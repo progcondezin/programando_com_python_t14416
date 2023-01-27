@@ -123,7 +123,7 @@ def verificar_valor_ingresso():
     print(f'Associado: {associado}')
     print(f'Valor do ingresso: {ingresso}')
 
-verificar_valor_ingresso()
+# verificar_valor_ingresso()
 
 """   
 ===> Laboratório 4 - página 119 <===
@@ -133,3 +133,15 @@ verificar_valor_ingresso()
     e apresentar o número de dias referente ao mês de fevereiro.
     
 """
+
+ano = 2023
+
+# Resposta possivel errada.
+# if ano % 4 == 0:
+#     dias = 29
+# else:
+#     dias = 28
+
+# resposta da questão
+dias_fevereiro = 29 if ano%4 == 0 else 28
+# print(dias_fevereiro)

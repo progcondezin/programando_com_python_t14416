@@ -5,8 +5,8 @@ apresentacao()
 opcao = input('Escolha a opção: ').lower()
 
 # =w
-# opcao = analise_for(opcao)
-opcao = analise_while(opcao)
+# nova_opcao = analise_for(opcao)
+nova_opcao = analise_while(opcao)
 
 # =w
-calcula_resultado(opcao)
+calcula_resultado(nova_opcao)
