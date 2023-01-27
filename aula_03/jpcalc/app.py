@@ -30,7 +30,6 @@ else:
         print('Infelizmente voce ainda não acertou. executa o programa novamente.')
         print('Saindo...')
         exit()
-
 '''
 
 # while

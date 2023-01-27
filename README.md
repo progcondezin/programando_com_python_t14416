@@ -2,5 +2,3 @@
 
 
 Aqui sera postado as aulas de python
-
-julio melhorou o codigo...
