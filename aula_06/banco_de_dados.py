@@ -5,7 +5,7 @@ try:
         host = 'localhost',
         user='root',
         password='p@ssword',
-        database='db_kasolutio',
+        database='db_kasolution',
         auth_plugin='mysql_native_password'
     )
 
